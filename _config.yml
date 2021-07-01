@@ -9,7 +9,7 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         Chapters
     url:          /
     external:     false
   - name:         About
@@ -17,7 +17,7 @@ links:
     external:     false
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /MPNAB/posts/:title
+permalink:        /posts/:title
 defaults:
   - values:
       layout: "default"
