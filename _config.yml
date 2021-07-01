@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Marvel: Play as Naruto at the beginning "
 description:      ""
-url:              "blog" # Site url, without a slash at the end.
-signoff:          "muan" # Your name
+url:              "MPNAB" # Site url, without a slash at the end.
+signoff:          "lord-asgord" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
