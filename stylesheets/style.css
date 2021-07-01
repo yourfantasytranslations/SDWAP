@@ -28,11 +28,11 @@
 .markdown-body > hr {
   margin: 2em -4rem;
   border: 0;
-  border-bottom: 1px dotted #CCC;
+  border-bottom: 1px dotted #9243fa;
 }
 .markdown-body blockquote {
-  background: #f9f9f9;
-  border-left: .2rem solid #ccc;
+  background: #9243fa;
+  border-left: .2rem solid #9243fa;
   padding-left: 3.8rem;
 }
 /* end Markdown styles */
