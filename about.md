@@ -2,13 +2,22 @@
 title: About
 ---
 
-Crossing over to Marvel world, Wu Chen gets the strongest acting system. The more he plays like the original character, the stronger his power. The Fourth Hokage, Six Paths of Pain, Uchiha Madara, Sage of the Six Paths….
-
-Hydra: What kind of village is Konoha? How could it hide such horrible power!
-
-S.H.I.E.L.D.: Compared to Akatsuki, Hydra is simply an ordinary snake!
-
-Thanos: The Sage of Six Paths? Calling yourself an immortal, I’d like to see how strong you are!
-
-When the characters played by Wu Chen make their debut one by one, the people of this world suddenly found out the ‘truth’ of this world……
-
+In the 1980s, Zhang Hao had amassed unparalleled name, fame and wealth thanks to his unique cheat skill.
+ 
+Just as he was about to become the richest man in the world, a mysterious letter opened the door of a new world for him.
+ 
+“Uh! What? Are you telling me now that I have crossed into the world of Harry Potter? God, are you kidding me?!”
+ 
+With great expectations, Zhang Hao finally walked into Hogwarts.
+ 
+And as a result, a lot of common sense in the magic world was broken…
+ 
+Professor McGonagall, “Oh! Mr. Zhang, what have you become? Why have I never seen such a creature?”
+ 
+Professor Flitwick, “It’s amazing! Is this Lumos Maxima improved from the Lumos Spell? Mr. Zhang, you are such a genius!”
+ 
+Professor Snape, “Harry Potter! I think you should learn more from Zhang Hao. You can never match his talent and resolve!”
+ 
+Professor Dumbledore, “Child! Your light is so dazzling. I think you can keep a low profile. How about giving Harry a chance?”
+Zhang Hao said with an innocent look, “I also want to keep a low profile, but my strength doesn’t allow it!”
+ 
