@@ -5,7 +5,7 @@ baseurl:     "BE"
 url:              "" # Site url, without a slash at the end.
 signoff:          "lord-asgord" 
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+google_analytics: G-NLNS2WZ9N9
 share:            false # Turn on twitter and facebook share buttons
 
 links:
