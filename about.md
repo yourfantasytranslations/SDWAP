@@ -15,4 +15,3 @@ He uses soy sauce to kill goblins and eggs to kill wolves. He creates dishes and
 "What the heck, can there be such a thing like this… that tastes good just by looking at it?
 
 This is just a perverted story about a kid who just wants to be popular amongst girls by making use of his skills of food and seasoning.
-
