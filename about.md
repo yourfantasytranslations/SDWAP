@@ -2,14 +2,12 @@
 title: About
 ---
 
-Lu Wen was reborn as a bionic housekeeper.
+I went to bed, after completing the blockbuster eroge game that had become a trending topic in the past few days. When I woke up, I noticed something was different. Somehow and for some reason I got reincarnated in the initial stage of the same game that I was playing before.
 
-He thought he would do just simple housework in this life.
+The most concerning part was my character. I was playing the role of a character who challenges the hero and gets defeated. In addition, all the routes of this particular character have been confirmed death.
 
-On the first day he was taken home by his employer, he received two instructions:
+I got reincarnated as an underdog, and the situation is even worse, because someone has already defeated me in a duel. I can't escape death anymore.
 
-“Don’t go to the third floor.”
+But I won’t give up. I have the knowledge of the eroge game that I had cleared in my previous life. I will make full use of it and try to survive.
 
-“Dig a hole in the backyard that can bury an adult, and dig a little deeper.”
-
-What should he do now? Is this fate of MC?
+This is a story about our hero who got reincarnated as an eroge underdog character, and trying his hard to survive.
