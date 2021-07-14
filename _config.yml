@@ -1,11 +1,11 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Eroge Reincarnation, Struggle of a Golden pig aristocrat against fate"
+title:            "Surviving a different world with the All-purpose skill “Creating seasonings”!!"
 description:      ""
-baseurl:     "ER"
+baseurl:     "SDWAP"
 url:              "" # Site url, without a slash at the end.
 signoff:          "lord-asgord" 
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: G-NLNS2WZ9N9
+google_analytics: 
 share:            false # Turn on twitter and facebook share buttons
 
 links:

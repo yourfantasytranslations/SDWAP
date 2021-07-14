@@ -2,12 +2,17 @@
 title: About
 ---
 
-I went to bed, after completing the blockbuster eroge game that had become a trending topic in the past few days. When I woke up, I noticed something was different. Somehow and for some reason I got reincarnated in the initial stage of the same game that I was playing before.
+Tatsuya, who had been living without a girlfriend for 32 years, became the "Sorrowful wizard" and got transferred to another world.
 
-The most concerning part was my character. I was playing the role of a character who challenges the hero and gets defeated. In addition, all the routes of this particular character have been confirmed death.
+While regretting over his overwhelmingly weak status, he was happy to be reincarnated as a child and was determined to become popular among girls.
 
-I got reincarnated as an underdog, and the situation is even worse, because someone has already defeated me in a duel. I can't escape death anymore.
+He makes full use of the unique skills that he had gained from his hobbies of cooking and baking, [Seasoning Creation] and [Item Box], to overcome the other world.
 
-But I won’t give up. I have the knowledge of the eroge game that I had cleared in my previous life. I will make full use of it and try to survive.
+He uses soy sauce to kill goblins and eggs to kill wolves. He creates dishes and sweets that don't exist in the other world, and grabs the stomachs of his friends.
 
-This is a story about our hero who got reincarnated as an eroge underdog character, and trying his hard to survive.
+"This is fried chicken!”
+
+"What the heck, can there be such a thing like this… that tastes good just by looking at it?
+
+This is just a perverted story about a kid who just wants to be popular amongst girls by making use of his skills of food and seasoning.
+
